@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file e
+=======
+this is file e
+>>>>>>> master
